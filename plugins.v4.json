@@ -1,6 +1,3 @@
-],
-"minVersion": "4.14.0"
-},
     {
       "id": "napcat-plugin-group-manager",
       "name": "NapCat 群管插件",
@@ -72,10 +69,10 @@
       "version": "1.0.0",
       "description": "NapCat固定表情消息回应",
       "author": "鸡太美",
-      "homepage": "https://github.com/ovoox/napcat-plugin-qemoji",
+      "homepage": "https://github.com/ovoox/napcat-plugin-qemoji"，
       "downloadUrl": "https://github.com/ovoox/napcat-plugin-qemoji/releases/download/v1.0.0/napcat-plugin-qemoji.zip",
       "tags": [
-        "工具",
+        "工具"，
         "表情"
       ],
       "minVersion": "4.14.0"
@@ -411,4 +408,4 @@
       "minVersion": "4.14.0"
 }
 ]
-}
+    }
