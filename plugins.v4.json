@@ -85,7 +85,7 @@
         "AI"
       ],
       "minVersion": "4.14.0"
-    },
+    }，
     {
       "id": "napcat-plugin-group-revoke",
       "name": "撤回猪手",
@@ -103,7 +103,6 @@
 {
 "id": "napcat-plugin-ssqq",
 "name": "Stapxs QQ Lite",
-@@ -112,350 +55,6 @@
 "工具"
 ],
 "minVersion": "4.14.13"
@@ -111,7 +110,7 @@
     {
       "id": "napcat-plugin-qemoji",
       "name": "固定表情回应",
-      "version": "1.0.0",
+      "version": "1.0.0"，
       "description": "NapCat固定表情消息回应",
       "author": "鸡太美",
       "homepage": "https://github.com/ovoox/napcat-plugin-qemoji",
@@ -125,9 +124,9 @@
     {
       "id": "napcat-plugin-qqemoji",
       "name": "检测表情回应",
-      "version": "1.0.0",
+      "version": "1.0.0"，
       "description": "NapCat检测消息中的表情并进行回应",
-      "author": "鸡太美",
+      "author": "鸡太美"，
       "homepage": "https://github.com/ovoox/napcat-plugin-qqemoji",
       "downloadUrl": "https://github.com/ovoox/napcat-plugin-qqemoji/releases/download/v1.0.0/napcat-plugin-qqemoji.zip",
       "tags": [
