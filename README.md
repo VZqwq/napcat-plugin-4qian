@@ -1,6 +1,6 @@
-# napcat-plugin-index
-napcat-plugin-index
+# Napcat插件索引
+Napcat插件索引（非官方，**完全**的版本）
 
-## 📄 License
+## 📄 许可证
 
-MIT License
+MIT 许可证
