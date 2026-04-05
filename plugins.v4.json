@@ -1,3 +1,48 @@
+{
+"version": "1.0.0",
+"updateTime": "2026-02-21T10:33:52Z",
+"plugins": [
+{
+"id": "napcat-plugin-builtin",
+"name": "内置插件",
+"version": "1.0.0",
+"description": "NapCat 内置插件",
+"author": "NapNeko",
+"homepage": "https://napcat.napneko.icu",
+"downloadUrl": "https://github.com/NapNeko/napcat-plugin-index/releases/download/v1.0.0/napcat-plugin-builtin.zip",
+"tags": [
+"官方",
+"工具"
+],
+"minVersion": "4.14.0"
+},
+{
+"id": "napcat-plugin-cleaner",
+"name": "缓存清理",
+"version": "1.2.0",
+"description": "NapCat 缓存清理",
+"author": "NapNeko",
+"homepage": "https://napcat.napneko.icu",
+"downloadUrl": "https://github.com/NapNeko/napcat-plugin-index/releases/download/v1.0.0/napcat-plugin-cleaner.zip",
+"tags": [
+"官方",
+"工具"
+],
+"minVersion": "4.14.0"
+},
+{
+"id": "napcat-plugin-debug",
+"name": "插件调试服务",
+"version": "1.0.8",
+"description": "NapCat 插件调试服务 — 通过 WS 暴露 PluginManager API，配合 CLI 实现热重载",
+"author": "NapNeko",
+"homepage": "https://github.com/NapNeko/napcat-plugin-debug",
+"downloadUrl": "https://github.com/NapNeko/napcat-plugin-debug/releases/download/v1.0.8/napcat-plugin-debug.zip",
+"tags": [
+"工具"
+],
+"minVersion": "4.14.0"
+},
     {
       "id": "napcat-plugin-group-manager",
       "name": "NapCat 群管插件",
@@ -69,10 +114,10 @@
       "version": "1.0.0",
       "description": "NapCat固定表情消息回应",
       "author": "鸡太美",
-      "homepage": "https://github.com/ovoox/napcat-plugin-qemoji"，
+      "homepage": "https://github.com/ovoox/napcat-plugin-qemoji",
       "downloadUrl": "https://github.com/ovoox/napcat-plugin-qemoji/releases/download/v1.0.0/napcat-plugin-qemoji.zip",
       "tags": [
-        "工具"，
+        "工具",
         "表情"
       ],
       "minVersion": "4.14.0"
@@ -348,7 +393,7 @@
       "tags": [
         "工具",
         "RSS"
-      ]，
+      ],
       "minVersion": "4.14.0"
     },
     {
@@ -408,4 +453,4 @@
       "minVersion": "4.14.0"
 }
 ]
-    }
+}
